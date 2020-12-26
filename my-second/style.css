@@ -1,0 +1,50 @@
+* {
+    color: rgb(0, 27, 27);
+
+}
+
+h1 {
+color: brown;
+}
+
+.orange-colored {
+color: darkorange;
+
+}
+li {
+    background-color: rgb(231, 231, 231);
+}
+body {
+background-image: url(https://lh3.googleusercontent.com/proxy/JQtjgI7PP97yeENvi4LRTwNg0x0PZ9KkM1LlEK0SPxOOxRGGOL3qyd1uY2eemJ5GlsPiNfD12eyjNWiIMjbCXqW583t14fEcux2YQQnfJQ);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav ul li{
+    display: inline;
+    width: 55px;
+}
+
+
+nav ul li {
+display: block;
+
+}
+
+nav ul {
+list-style-type: circle;
+
+}
+
+ ol li {
+     margin-top: 2px;
+     margin-bottom: 15 px;
+ 
+border-style: solid;
+ border-width: 10px;
+ 
+padding-bottom: 12px;
+padding-bottom: 12px;
+padding-right: 12px;
+padding-left: 12px;
+ }
+
